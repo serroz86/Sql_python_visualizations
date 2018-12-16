@@ -22,3 +22,7 @@ a) python 3 and the following modules: sqlite3, pandas, numpy, matplotlib, seabo
 Most of these can be installed using the basic Anaconda installation. 
 
 b) It is necessary to download the database in form of .sqlite file (lahman2016.sqlite), retrieved from http://seanlahman.com/files/database/lahman2016-sql.zip
+
+## Visualization
+
+A visualization of the python notebook can be seen with the .webarchive file.
